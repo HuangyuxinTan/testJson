@@ -1,158 +1,325 @@
 {
-	"arrayOfProducts": [
+"goods": [
+    {
+      "name": "special",
+      "type": -1,
+      "foods": [
+        {
+          "name": "smash burger alfresco",
+          "price": 10,
+          "oldPrice": "",
+          "description": "A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill.",
+          "sellCount": 229,
+          "recommend": 100,
+          "info": "A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill.", 
+          "icon": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+          "image": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+		  "meal": "lunch"
+        },
 		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "CHECK PRINT SHIRT",
-			"price": 110,
-			"link":"https://www.baidu.com",
-			"id":1111
-		},
+          "name": "smash burger alfresco",
+          "price": 10,
+          "oldPrice": "",
+          "description": "burger",
+          "sellCount": 229,
+          "recommend": 100,
+          "info": "A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill.", 
+          "icon": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+          "image": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+		  "meal": "lunch"
+        },
 		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":222
-		},
+          "name": "smash burger alfresco",
+          "price": 10,
+          "oldPrice": "",
+          "description": "burger",
+          "sellCount": 229,
+          "recommend": 100,
+          "info": "A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill.", 
+          "icon": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+          "image": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+		  "meal": "lunch"
+        },
 		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":33
-		},
-		{
-			"imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "GUESS CONNECT WATCH",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":44
-		},{
-			"imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "GUESS CONNECT WATCH",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":44
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "'70s RETRO GLAM KEFIAH",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":55
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "CHECK PRINT SHIRT",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":66
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":77
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":88
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":99
-		},
-				{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "CHECK PRINT SHIRT",
-			"price": 110,
-			"link":"https://www.baidu.com",
-			"id":1111
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":222
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":33
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "CHECK PRINT SHIRT",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":66
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":77
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":88
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":77
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":88
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":99
-		},
-				{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
-			"name": "CHECK PRINT SHIRT",
-			"price": 110,
-			"link":"https://www.baidu.com",
-			"id":1111
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "GLORIA HIGH LOGO SNEAKER",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":222
-		},
-		{
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "CATE RIGID BAG",
-			"price": 91,
-			"link":"https://www.baidu.com",
-			"id":33
+          "name": "smash burger alfresco",
+          "price": 10,
+          "oldPrice": "",
+          "description": "burger",
+          "sellCount": 229,
+          "recommend": 100,
+          "info": "A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill.", 
+          "icon": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+          "image": "https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+		  "meal": "lunch"
+        }
+		  
+      ]
+    },
+    {
+      "name": "drink",
+      "type": 1,
+      "foods": [
+        {
+          "name": "orange juice",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "recommend": 100,
+          "info": "",
+          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750",
+		  "meal": "breakfast"
 		}
-
-	]
+      ]
+    },
+    {
+      "name": "stew",
+      "type": -1,
+      "foods": [
+        {
+          "name": "turkey and bean chili",
+          "price": 17,
+          "oldPrice": "",
+          "description": "stew",
+          "sellCount": 43,
+          "recommend": 92,
+          "info": "Turkey with white beans, a robust and concentrated chile pur茅e, and simmer it for just long enough, it delivers major body and richness.", 
+          "icon": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+          "image": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+		  "meal": "dinner"
+        },
+		{
+          "name": "turkey and bean chili",
+          "price": 17,
+          "oldPrice": "",
+          "description": "stew",
+          "sellCount": 43,
+          "recommend": 92,
+          "info": "Turkey with white beans, a robust and concentrated chile pur茅e, and simmer it for just long enough, it delivers major body and richness.", 
+          "icon": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+          "image": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+		  "meal": "dinner"
+        },
+		{
+          "name": "turkey and bean chili",
+          "price": 17,
+          "oldPrice": "",
+          "description": "stew",
+          "sellCount": 43,
+          "recommend": 92,
+          "info": "Turkey with white beans, a robust and concentrated chile pur茅e, and simmer it for just long enough, it delivers major body and richness.", 
+          "icon": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+          "image": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+		  "meal": "dinner"
+        },
+		{
+          "name": "turkey and bean chili",
+          "price": 17,
+          "oldPrice": "",
+          "description": "stew",
+          "sellCount": 43,
+          "recommend": 92,
+          "info": "Turkey with white beans, a robust and concentrated chile pur茅e, and simmer it for just long enough, it delivers major body and richness.", 
+          "icon": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+          "image": "https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+		  "meal": "dinner"
+        }
+		
+      ]
+    },
+    {
+      "name": "soup",
+      "type": -1,
+      "foods": [
+        {
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        }
+		
+      ]
+    },
+    {
+      "name": "stir fry",
+      "type": -1,
+      "foods": [
+        {
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        }
+      ]
+    },
+    {
+      "name": "sandwich",
+      "type": -1,
+      "foods": [
+        {
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        }
+      ]
+    },
+    {
+      "name": "pasta",
+      "type": -1,
+      "foods": [
+        {
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        },
+		{
+          "name": "cheesy croutons",
+          "price": 4,
+          "oldPrice": "",
+          "description": "soup",
+          "sellCount": 84,
+          "recommend": 100,
+          "info": "Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream.", 
+          "icon": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+          "image": "https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+		  "meal": "night"
+        }
+      ]
+    }
+  ]
 }
